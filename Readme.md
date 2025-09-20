@@ -18,3 +18,10 @@
 
 - Remove origin:
 - `git remote remove origin`
+
+# Branch:
+
+- Create new branch: `git branch <branch name>`
+- Switch to the new branch: `git checkout <branch name>`
+
+-
